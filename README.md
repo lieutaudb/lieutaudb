@@ -1,7 +1,7 @@
 ## Heyy!
 
 - ✨ Cursando Análise e desenvolvimento de sistemas
-- 🌙 Atualmente estudando Angular
+- 🌙 Atualmente estudando AWS pela escola da nuvem
 
 ![lieutaudb's Stats](https://github-readme-stats.vercel.app/api?username=lieutaudb&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 ![lieutaudb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lieutaudb&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
