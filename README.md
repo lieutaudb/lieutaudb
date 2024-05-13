@@ -1,6 +1,5 @@
-## Heyy!
+## ✨ Heyy! 
 
-- ✨ Cursando Análise e desenvolvimento de sistemas
 - 🌙 Atualmente estudando AWS pela escola da nuvem
 
 ![lieutaudb's Stats](https://github-readme-stats.vercel.app/api?username=lieutaudb&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
