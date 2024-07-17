@@ -6,7 +6,7 @@
 ![lieutaudb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lieutaudb&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="gif" height="150" width="150" src="https://i.picasion.com/pic92/42d89b0f40569e45ff2379c29d677066.gif">
+  <img align="right" alt="gif" height="150" width="150" src="https://i.picasion.com/pic92/d9578247eff2d048d6ca749f9dc2ee57.gif">
    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
