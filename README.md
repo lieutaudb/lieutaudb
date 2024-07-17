@@ -2,8 +2,6 @@
 
 - 🌙 Atualmente estudando AWS pela escola da nuvem
 
-![lieutaudb's Stats](https://github-readme-stats.vercel.app/api?username=lieutaudb&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![lieutaudb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lieutaudb&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="right" alt="gif" height="150" width="150" src="https://i.picasion.com/pic92/d9578247eff2d048d6ca749f9dc2ee57.gif">
