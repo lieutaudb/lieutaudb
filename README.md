@@ -4,7 +4,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="gif" height="150" width="150" src="https://i.picasion.com/pic92/d9578247eff2d048d6ca749f9dc2ee57.gif">
+  <img align="right" alt="gif" height="150" width="150" src="https://i.picasion.com/pic92/a2aa20ba9130778f0ca63b7a661b57e5.gif">
    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
